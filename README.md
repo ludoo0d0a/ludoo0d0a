@@ -10,6 +10,5 @@
 - 🏰 My projects: http://www.geoking.fr
 - ⚡ Fun fact: Testing it's doubting, fixing it's abdicating
 - 🖥️ Use my own [dotfiles setup for Mac](https://gist.github.com/ludoo0d0a/d358debdcca08b953168588cf9302c2b)
-- :rocket: Discover me : https://www.gitmemory.com/ludoo0d0a
 
 ![ludoo0d0a stats](https://github-readme-stats.vercel.app/api?username=ludoo0d0a&count_private=true&theme=default&show_icons=true)

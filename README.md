@@ -8,6 +8,7 @@
 - 🏰 My projects: Geoking (geocaching app), Scora (a wearable tennis scoreboard)
 - ⚡ Fun fact: Testing is doubting, fixing is abdicating
 - 🖥️ Use my own [dotfiles setup for Mac](https://gist.github.com/ludoo0d0a/d358debdcca08b953168588cf9302c2b)
+- My [CV / Resume](https://registry.jsonresume.org/ludoo0d0a)
 
 <a href="https://www.buymeacoffee.com/ludoo"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ludoo&button_colour=FF5F5F&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
 

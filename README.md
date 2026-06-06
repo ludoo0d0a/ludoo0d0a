@@ -1,6 +1,6 @@
 ### I'm **LudoO** ✨✨ 
 
-- ⌚🎾 Creator of [Score](http://scorawatch.com), a tennis scoreboard for WearOs watch. 
+- ⌚🎾 Creator of [Scora](http://scorawatch.com), a tennis scoreboard for WearOs watch. 
 - 🔭 I’m currently working on KMP, Jetpack Compose, Kotlin, SpringBoot microservices...
 - 😄 Pronouns: [ˈluˌdoʊ]
 - 📫 How to reach me: [![Ludovic Valente LinkedIn profile](https://imgur.com/8j33Glf.png "LinkedIn")](https://www.linkedin.com/in/ludovicvalente/)  [![Ludovic Valente Twitter profile](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/ludoo0d0a)
